@@ -9,3 +9,5 @@ Projeto para aprendizagem em git
 git clone 
 git status
 git add [nome: arquivos]
+git add . 
+git commit m "explicação"
