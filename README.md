@@ -14,7 +14,7 @@ Projeto para aprendizagem de git.
 - git push
 - git pull
 
-Listar branch
+#### Listar branch
 - git branch
 - git branch [nome da branch]
 - git checkout [nome da branch]
